@@ -13,7 +13,7 @@
 
     <section class="perfil">
         <h2>Sobre mí</h2>
-        <p>Interesado en IA, arquitectura de software y ciberseguridad.</p>
+        <p>Interesado en IA, analisis de datos y ciberseguridad.</p>
     </section>
 
     <section class="calculadora">
